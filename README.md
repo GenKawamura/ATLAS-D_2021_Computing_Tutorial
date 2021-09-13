@@ -13,3 +13,8 @@
    3. Rucio
    4. ATLAS Metadata Interface (AMI)
    5. Information provider
+
+
+# SoftwareTutorialGermanGrid
+
+ * https://twiki.cern.ch/twiki/bin/view/AtlasComputing/SoftwareTutorialGermanyGrid
